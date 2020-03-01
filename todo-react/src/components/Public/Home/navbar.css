@@ -1,0 +1,38 @@
+.navi-active{
+    width:9em;
+    height:4.5em;
+    background-color:#2a166f!important;
+    color:#ffffff!important;
+    font-size:0.8125em;
+    text-align:center;
+    font-family:Open Sans, sans-serif;
+    font-weight:700;
+    border-radius:0.5em;
+    margin-right:1em;
+}
+
+.navi:hover{
+    width:9em;
+    height:4.5em;
+    background-color:#2a166f!important;
+    color:#ffffff!important;
+    font-size:0.8125em;
+    text-align:center;
+    font-family:Open Sans, sans-serif;
+    font-weight:700;
+    border-radius:0.5em;
+    margin-right:1em;
+}
+
+.navi{
+    width:9em;
+    height:4.5em;
+    background-color:#ffffff!important;
+    color:#2a166f!important;
+    font-size:0.8125em;
+    text-align:center;
+    font-family:Open Sans, sans-serif!important;
+    font-weight:700;
+    border-radius:0.5em;
+    margin-right:1em;
+}

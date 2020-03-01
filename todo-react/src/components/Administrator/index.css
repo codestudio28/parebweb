@@ -1,0 +1,35 @@
+body{
+    font-family: 'Open Sans,sans-serif'!important;
+}
+
+.menu-side {
+    background: #ffffff!important;
+    color:#2a166f !important;
+    border-right:'2px solid';
+    border-color:#2a166f !important;
+}
+
+.menu-side:hover {
+    background: #2a166f !important;
+    color:#ffffff!important;
+    border-right:'2px solid';
+    border-color:#2a166f !important;
+}
+
+.menu-side:active {
+    background: #2a166f !important;
+    color:#ffffff!important;
+    border-right:'2px solid';
+    border-color:#2a166f !important;
+}
+
+.classfont{
+    font-family: 'Open Sans,sans-serif'!important;
+}
+
+tr:nth-child(even) {
+    background-color: #e6f7ff!important;
+}
+/* tr:nth-child(odd) {
+    background-color: #d9f7be!important;
+} */
